@@ -271,5 +271,6 @@ Humidity:Humidity
 ![WhatsApp Image 2025-11-11 at 11 34 55_ae0dc00b](https://github.com/user-attachments/assets/92f46c07-b1b5-4a5b-b42f-51ed4e4369a3)
 # OUTPUT:
 <img width="1920" height="1080" alt="Screenshot 2025-11-11 113335" src="https://github.com/user-attachments/assets/bfaf0dd7-a64f-43bb-b0cb-12adea18e693" />
+
 # RESULT:
 The temperature sensor was successfully interfaced with the IoT controller (Arduino), and the temperature/humidity data was accurately measured, encoded for LoRaWAN, transmitted via a LoRa module to a LoRaWAN gateway, and uploaded to the cloud for real-time distance monitoring through a cloud dashboard.
